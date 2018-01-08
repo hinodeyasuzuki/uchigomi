@@ -1,6 +1,7 @@
-# uchigomi
-ごみ減量の簡単チェックソフト / easy check to make report about gabage reduction
+# uchigomi - gabage reduction check
+ごみ減量の簡単チェックソフト
 
+かんたんなチェックリストで、ごみ減量の診断レポートを作成します。  
 javascriptで診断を行いますが、動作時にインターネットアクセスを必要としません。1ファイル構成なので、htmlファイルをタブレットなどに入れることで、インターネットアクセスのない環境などのイベントでも使用することができます。
 
 診断結果は管理画面から集計できます。
