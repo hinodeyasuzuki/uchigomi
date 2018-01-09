@@ -1,4 +1,4 @@
-# uchigomi - gabage reduction check
+# uchigomi - garbage reduction check
 ごみ減量の簡単チェックソフト
 
 かんたんなチェックリストで、ごみ減量の診断レポートを作成します。  
