@@ -10,5 +10,11 @@ This program work by JavaScript, and no need to connect the Internet when you us
 
 診断結果は管理画面から集計できます。
 
+You can check diagnosis logs.
+
 ## Demo
-http://tool.hinodeya-ecolife.com/ecocheck/uchigomi.html
+http://gomi.tank.jp/uchigomi.html
+http://gomi.tank.jp/uchigomikids.html
+
+
+
