@@ -3,6 +3,8 @@
 
 easy check workbook to reduce household waste
 
+![image](https://user-images.githubusercontent.com/4064906/95636901-54117080-0acb-11eb-83fc-2c9500c9ecd8.png)
+
 かんたんなチェックリストで、ごみ減量の診断レポートを作成します。 
 
 You can get report to reduce garbage by easy check.
