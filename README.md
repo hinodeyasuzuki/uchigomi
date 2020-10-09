@@ -9,6 +9,8 @@ easy check workbook to reduce household waste
 
 You can get report to reduce garbage by easy check.
 
+![image](https://user-images.githubusercontent.com/4064906/95637956-1e21bb80-0ace-11eb-83aa-c342cc3b56bd.png)
+
 JavaScriptで診断を行いますが、動作時にインターネットアクセスを必要としません。1ファイル構成なので、htmlファイルをタブレットなどに入れることで、インターネットアクセスのない環境などのイベントでも使用することができます。
 
 This program work by JavaScript, and no need to connect the Internet when you use. It is made of one-file, so you can use it at events by offline.
