@@ -19,7 +19,12 @@ This program work by JavaScript, and no need to connect the Internet when you us
 
 You can check diagnosis logs.
 
-## Demo
+## demo(git page)
+
+- [うちごみ診断 garbage reduction check](https://hinodeyasuzuki.github.io/uchigomi/uchigomi.html)
+- [うちごみ診断キッズ版 for Children](https://hinodeyasuzuki.github.io/uchigomi/uchigomikids.html)
+
+## service site
 
 - [うちごみ診断 garbage reduction check](http://gomi.tank.jp/uchigomi.html)
 - [うちごみ診断キッズ版 for Children](http://gomi.tank.jp/uchigomikids.html)
